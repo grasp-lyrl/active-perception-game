@@ -1,0 +1,116 @@
+{
+    "classes": [
+      {
+        "name": "alarm_clock",
+        "id": 1
+      },
+      {
+        "name": "bed",
+        "id": 2
+      },
+      {
+        "name": "book",
+        "id": 3
+      },
+      {
+        "name": "bottle",
+        "id": 4
+      },
+      {
+        "name": "bowl",
+        "id": 5
+      },
+      {
+        "name": "chair",
+        "id": 6
+      },
+      {
+        "name": "chest_of_drawers",
+        "id": 7
+      },
+      {
+        "name": "couch",
+        "id": 8
+      },
+      {
+        "name": "cushion",
+        "id": 9
+      },
+      {
+        "name": "drinkware",
+        "id": 10
+      },
+      {
+        "name": "fridge",
+        "id": 11
+      },
+      {
+        "name": "laptop",
+        "id": 12
+      },
+      {
+        "name": "microwave",
+        "id": 13
+      },
+      {
+        "name": "picture",
+        "id": 14
+      },
+      {
+        "name": "plate",
+        "id": 15
+      },
+      {
+        "name": "potted_plant",
+        "id": 16
+      },
+      {
+        "name": "shelves",
+        "id": 17
+      },
+      {
+        "name": "shoes",
+        "id": 18
+      },
+      {
+        "name": "sink",
+        "id": 19
+      },
+      {
+        "name": "stool",
+        "id": 20
+      },
+      {
+        "name": "table",
+        "id": 21
+      },
+      {
+        "name": "table_lamp",
+        "id": 22
+      },
+      {
+        "name": "toaster",
+        "id": 23
+      },
+      {
+        "name": "toilet",
+        "id": 24
+      },
+      {
+        "name": "trashcan",
+        "id": 25
+      },
+      {
+        "name": "tv",
+        "id": 26
+      },
+      {
+        "name": "vase",
+        "id": 27
+      },
+      {
+        "name": "washer_dryer",
+        "id": 28
+      }
+    ]
+  }
