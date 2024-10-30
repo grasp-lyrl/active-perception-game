@@ -70,6 +70,7 @@ Data will be saved in `data/habitat_collection/` with the following format:
 	/test: save test data
 	/train: save train data collected during active perception
 	/vis: images, predictions, fpv, and tpv for videos
+	/prediction: depth_mse, lpips, psnr, and cross entropy of semantic segmentation over timesteps
 	errors.npy stores the evaluation errors during active perception
 	uncertainty.npy stores the predictive information during active perception
 ```
