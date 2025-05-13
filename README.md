@@ -1,5 +1,6 @@
 # An Active Perception Game for Robust Information Gathering
 [Paper](https://arxiv.org/abs/2404.00769), [Video](https://www.youtube.com/watch?v=zzvhCXsdn7o)
+The code is developed based on previous work [Active Perception using Neural Radiance Fields](https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields).
 
 ## Abstract
 Active perception approaches select future viewpoints by using some estimate of the information gain. An inaccurate estimate can be detrimental in critical situations, e.g., locating a person in distress. However the true information gained can only be calculated post hoc, i.e., after the observation is realized. We present an approach for estimating the discrepancy between the information gain (which is the average over putative future observations) and the true information gain. The key idea is to analyze the mathematical relationship between active perception and the estimation error of the information gain in a game-theoretic setting. Using this, we develop an online estimation approach that achieves sub-linear regret (in the number of time-steps) for the estimation of the true information gain and reduces the sub-optimality of active perception systems.
