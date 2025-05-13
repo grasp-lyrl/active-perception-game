@@ -88,7 +88,7 @@ Data will be saved in `data/habitat_collection/` with the following format:
 
 @inproceedings{siming2024active,
   title={Active perception using neural radiance fields},
-  author={Siming, H and Hsu, Christopher D and Ong, Dexter and Shao, Yifei Simon and Chaudhari, Pratik},
+  author={He, Siming and Hsu, Christopher D and Ong, Dexter and Shao, Yifei Simon and Chaudhari, Pratik},
   booktitle={2024 American Control Conference (ACC)},
   pages={4353--4358},
   year={2024},
