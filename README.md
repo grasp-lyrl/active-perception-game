@@ -1,5 +1,6 @@
 # An Active Perception Game for Robust Information Gathering
 [Paper](https://arxiv.org/abs/2404.00769), [Video](https://www.youtube.com/watch?v=zzvhCXsdn7o)
+
 The code is developed based on previous work [Active Perception using Neural Radiance Fields](https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields).
 
 ## Abstract
