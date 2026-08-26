@@ -1,4 +1,4 @@
-# An Active Perception Game for Robust Information Gathering
+# An Active Perception Game for Robust Exploration
 [Paper](https://arxiv.org/abs/2404.00769), [Video](https://www.youtube.com/watch?v=zzvhCXsdn7o)
 
 The code is developed based on previous work [Active Perception using Neural Radiance Fields](https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields).
@@ -79,11 +79,11 @@ Data will be saved in `data/habitat_collection/` with the following format:
 
 ## Citation
 ```
-@article{he2024active,
-  title={An Active Perception Game for Robust Autonomous Exploration},
-  author={He, Siming and Tao, Yuezhan and Spasojevic, Igor and Kumar, Vijay and Chaudhari, Pratik},
-  journal={arXiv preprint arXiv:2404.00769},
-  year={2024}
+@article{he2024activegame,
+  title   = {An Active Perception Game for Robust Exploration},
+  author  = {He, Siming and Tao, Yuezhan and Spasojevic, Igor and Kumar, Vijay and Chaudhari, Pratik},
+  journal = {arXiv preprint arXiv:2404.00769},
+  year    = {2024}
 }
 
 @inproceedings{siming2024active,
